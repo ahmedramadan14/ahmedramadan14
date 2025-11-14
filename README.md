@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ahmed Ramadan
+---
 
-<!--
-**ahmedramadan14/ahmedramadan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Backend-focused CS Student fueled by a blend of strong coffee and a perpetual need to build things. I primarily write JavaScript (Node.js) and dream in database schemas. I enjoy clean code, tackling complex problems, and occasionally debugging issues that exist only in my mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Exploring (And Hopefully Sticking To!)
+
+* **Deep-diving into MongoDB and its ecosystem:** Mastering flexible data structures, aggregation pipelines, and sharding (because one database is never enough).
+* **The art of Problem Solving:** Dedicated to consistent practice across platforms (I hope I can stick to that, so I don't have to start all over again every time).
+* **Architecting Backend Services:** Learning to design scalable APIs using Express.js and diving into authentication/authorization flows.
+
+---
+
+### 🔗 Connect With Me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [ahmedramadan1478](https://www.linkedin.com/in/ahmedramadan1478/) |
+| **Twitter (X)** | [AhmedRa33795341](https://x.com/AhmedRa33795341) |
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ahmedramadan14&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Ramadan Profile Views">
+</p>
