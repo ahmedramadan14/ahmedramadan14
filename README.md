@@ -14,7 +14,3 @@ Backend-focused CS Student fueled by a blend of strong coffee and a perpetual ne
 * **Architecting Backend Services:** Learning to design scalable APIs using Express.js and diving into authentication/authorization flows.
 
 ---
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ahmedramadan14&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Ramadan Profile Views">
-</p>
