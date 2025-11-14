@@ -15,13 +15,6 @@ Backend-focused CS Student fueled by a blend of strong coffee and a perpetual ne
 
 ---
 
-### 🔗 Connect With Me
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [ahmedramadan1478](https://www.linkedin.com/in/ahmedramadan1478/) |
-| **Twitter (X)** | [AhmedRa33795341](https://x.com/AhmedRa33795341) |
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ahmedramadan14&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Ramadan Profile Views">
 </p>
